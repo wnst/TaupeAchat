@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Parametres>
+
+	<ListeProduits>
+		<Produit>
+			<Propriete nom="Libelle">Processeur Intel Core i7 2600K (3.4 GHz)</Propriete>
+			<Propriete nom="Prix">259.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1004745401.jpg</Propriete>
+			<Propriete nom="Marque">Intel</Propriete>
+			<Propriete nom="Socket">1155</Propriete>
+			<Propriete nom="Fréquence">3.4 GHz</Propriete>
+			<Propriete nom="Core(s)">4</Propriete>
+			<Descriptif>Processeur cpu intel core i7 2600k 2600</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>Intel</Rubrique>
+				<Rubrique>1155</Rubrique>
+			</Rubriques>
+		</Produit>	
+
+		<Produit>
+			<Propriete nom="Libelle">Processeur Intel Core 2 Quad Q8200 (2.33 GHz)</Propriete>
+			<Propriete nom="Prix">125.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">int39801.jpg</Propriete>
+			<Propriete nom="Marque">Intel</Propriete>
+			<Propriete nom="Socket">LGA775</Propriete>
+			<Propriete nom="Fréquence">2.33 GHz</Propriete>
+			<Propriete nom="Core(s)">4</Propriete>
+			<Descriptif>Processeur cpu intel Core 2 Quad Q8200 8200</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>Intel</Rubrique>
+				<Rubrique>LGA775</Rubrique>
+			</Rubriques>
+		</Produit>
+
+		<Produit>
+			<Propriete nom="Libelle">Processeur Intel Core i5 650 (3.20 GHz)</Propriete>
+			<Propriete nom="Prix">161.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Marque">Intel</Propriete>
+			<Propriete nom="Socket">1156</Propriete>
+			<Propriete nom="Fréquence">3.2 GHz</Propriete>
+			<Propriete nom="Core(s)">2</Propriete>
+			<Descriptif>Processeur cpu Intel Core i5 650</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>Intel</Rubrique>
+				<Rubrique>1156</Rubrique>
+			</Rubriques>
+		</Produit>	
+		
+		<Produit>
+			<Propriete nom="Libelle">Processeur AMD Athlon 64 X2 7850 Black Edition + ventilo</Propriete>
+			<Propriete nom="Prix">34.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">inx62801.jpg</Propriete>
+			<Propriete nom="Marque">AMD</Propriete>
+			<Propriete nom="Socket">AM2+</Propriete>
+			<Propriete nom="Fréquence">2.8 GHz</Propriete>
+			<Propriete nom="Core(s)">2</Propriete>
+			<Descriptif>Processeur AMD Athlon 64 X2 7850 Black Edition cpu</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>AMD</Rubrique>
+				<Rubrique>AM2+</Rubrique>
+			</Rubriques>
+		</Produit>	
+		
+		<Produit>
+			<Propriete nom="Libelle">Processeur AMD Phenom II X4 955 Black Edition (3.2 Ghz)</Propriete>
+			<Propriete nom="Prix">99.85</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">inx64201.jpg</Propriete>
+			<Propriete nom="Marque">AMD</Propriete>
+			<Propriete nom="Socket">AM3</Propriete>
+			<Propriete nom="Fréquence">3.2 GHz</Propriete>
+			<Propriete nom="Core(s)">4</Propriete>
+			<Descriptif>Processeur AMD Phenom II X4 955 Black Edition cpu</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>AMD</Rubrique>
+				<Rubrique>AM3</Rubrique>
+			</Rubriques>
+		</Produit>	
+		
+		
+		<Produit>
+			<Propriete nom="Libelle">Processeur Intel Core i5 2500K (3.3 GHz)</Propriete>
+			<Propriete nom="Prix">179.75</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1004745201.jpg</Propriete>
+			<Propriete nom="Marque">Intel</Propriete>
+			<Propriete nom="Socket">1155</Propriete>
+			<Propriete nom="Fréquence">3.3 GHz</Propriete>
+			<Propriete nom="Core(s)">4</Propriete>
+			<Descriptif>Processeur Intel Core i5 2500K 2500 cpu</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>Intel</Rubrique>
+				<Rubrique>1155</Rubrique>
+			</Rubriques>
+		</Produit>	
+		
+		<Produit>
+			<Propriete nom="Libelle">Processeur AMD Athlon II X2 250 (3 GHz)</Propriete>
+			<Propriete nom="Prix">49.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1003551101.jpg</Propriete>
+			<Propriete nom="Marque">AMD</Propriete>
+			<Propriete nom="Socket">AM3</Propriete>
+			<Propriete nom="Fréquence">3 GHz</Propriete>
+			<Propriete nom="Core(s)">2</Propriete>
+			<Descriptif>Processeur AMD Athlon II X2 250 cpu</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>AMD</Rubrique>
+				<Rubrique>AM3</Rubrique>
+			</Rubriques>
+		</Produit>	
+		
+		<Produit>
+			<Propriete nom="Libelle">Processeur AMD Athlon II X4 640 (3,0 Ghz)</Propriete>
+			<Propriete nom="Prix">84.80</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Marque">AMD</Propriete>
+			<Propriete nom="Socket">AM3</Propriete>
+			<Propriete nom="Fréquence">3 GHz</Propriete>
+			<Propriete nom="Core(s)">4</Propriete>
+			<Descriptif>Processeur AMD Athlon II X4 640 cpu</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>AMD</Rubrique>
+				<Rubrique>AM3</Rubrique>
+			</Rubriques>
+		</Produit>
+
+		<Produit>
+			<Propriete nom="Libelle">Processeur AMD Sempron 140</Propriete>
+			<Propriete nom="Prix">29.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1003671601.jpg</Propriete>
+			<Propriete nom="Marque">AMD</Propriete>
+			<Propriete nom="Socket">AM3</Propriete>
+			<Propriete nom="Fréquence">2.7 GHz</Propriete>
+			<Propriete nom="Core(s)">2</Propriete>
+			<Descriptif>Processeur AMD Sempron 140 cpu</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>AMD</Rubrique>
+				<Rubrique>AM3</Rubrique>
+			</Rubriques>
+		</Produit>	
+		
+		<Produit>
+			<Propriete nom="Libelle">Processeur Intel Pentium E6500 (2.93 GHz)</Propriete>
+			<Propriete nom="Prix">64.85</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">1f366b3918b61fe92658d964008d4805-200x200.jpg</Propriete>
+			<Propriete nom="Marque">Intel</Propriete>
+			<Propriete nom="Socket">LGA775</Propriete>
+			<Propriete nom="Fréquence">2.93 GHz</Propriete>
+			<Propriete nom="Core(s)">2</Propriete>
+			<Descriptif>Processeur Intel Pentium E6500 cpu</Descriptif>
+			<Rubriques>
+				<Rubrique>Processeur</Rubrique>
+				<Rubrique>Intel</Rubrique>
+				<Rubrique>LGA775</Rubrique>
+			</Rubriques>
+		</Produit>	
+		
+		<Produit>
+			<Propriete nom="Libelle">Mémoire DDR, 1 Go, PC-3200, Value RAM, CAS 3, Kingston</Propriete>
+			<Propriete nom="Prix">37.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Marque">Kingston</Propriete>
+			<Propriete nom="Type">DDR 400</Propriete>
+			<Propriete nom="Taille">1024 mo</Propriete>
+			<Propriete nom="CAS">3</Propriete>
+			<Descriptif>Mémoire DDR 1 Go PC-3200 Value RAM CAS 3 Kingston 3200 400</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Mémoire DDR-SDRAM, 1 Go, PC-2700, Value Select, CAS 2.5, Corsair</Propriete>
+			<Propriete nom="Prix">29.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">inu35801.jpg</Propriete>
+			<Propriete nom="Marque">Corsair</Propriete>
+			<Propriete nom="Type">DDR 333</Propriete>
+			<Propriete nom="Taille">1024 mo</Propriete>
+			<Propriete nom="CAS">2.5</Propriete>
+			<Descriptif>Mémoire DDR-SDRAM 1 Go PC-2700 Value Select CAS 2.5 Corsair 2700 333</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Mémoire DDR 512 Mo PC-3200 Value RAM CAS 3 Kingston</Propriete>
+			<Propriete nom="Prix">17.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Marque">Kingston</Propriete>
+			<Propriete nom="Type">DDR 400</Propriete>
+			<Propriete nom="Taille">512 mo</Propriete>
+			<Propriete nom="CAS">3</Propriete>
+			<Descriptif>Mémoire DDR 512 Mo PC-3200 Value RAM CAS 3 Kingston 3200 400</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Mémoire DDR2 2 Go PC2-4200 ValueRAM Cas 4 Kingston</Propriete>
+			<Propriete nom="Prix">23.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Marque">Kingston</Propriete>
+			<Propriete nom="Type">DDR2 533</Propriete>
+			<Propriete nom="Taille">2048 mo</Propriete>
+			<Propriete nom="CAS">4</Propriete>
+			<Descriptif>Mémoire DDR2 2 Go PC2-4200 ValueRAM Cas 4 Kingston 4200 533</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR2</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Mémoire DDR2 1 Go, PC2-6400, XMS2, Corsair</Propriete>
+			<Propriete nom="Prix">17.50</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">inj58401.jpg</Propriete>
+			<Propriete nom="Marque">Corsair</Propriete>
+			<Propriete nom="Type">DDR2 800</Propriete>
+			<Propriete nom="Taille">1024 mo</Propriete>
+			<Propriete nom="CAS">5</Propriete>
+			<Descriptif>Mémoire DDR2 1 Go PC2-6400 XMS2 Corsair 6400 800</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR2</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Kit Dual Channel DDR2, 2 x 2 Go, PC2-8500, Cas 5, HyperX, Kingston</Propriete>
+			<Propriete nom="Prix">64.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">int30801.jpg</Propriete>
+			<Propriete nom="Marque">Kingston</Propriete>
+			<Propriete nom="Type">DDR2 1066</Propriete>
+			<Propriete nom="Taille">4048 mo</Propriete>
+			<Propriete nom="CAS">5</Propriete>
+			<Descriptif>Mémoire Kit Dual Channel DDR2 2 x 2 Go PC2-8500 Cas 5 HyperX Kingston 8500 1066</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR2</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Kit Dual Channel DDR3 Ripjaws X, 2 x 4 Go, PC3-12800, CAS 9, G.Skill</Propriete>
+			<Propriete nom="Prix">76.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1004795601.jpg</Propriete>
+			<Propriete nom="Marque">G.Skill</Propriete>
+			<Propriete nom="Type">DDR3 1600</Propriete>
+			<Propriete nom="Taille">4096 mo</Propriete>
+			<Propriete nom="CAS">9</Propriete>
+			<Descriptif>Kit Dual Channel DDR3 Ripjaws X 2 x 4 Go PC3-12800 CAS 9 G.Skill Mémoire 1600 12800</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR3</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Mémoire DDR3 Value Ram, 1 Go, PC3-10600, CAS 9, Kingston</Propriete>
+			<Propriete nom="Prix">10.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Marque">Kingston</Propriete>
+			<Propriete nom="Type">DDR3 1333</Propriete>
+			<Propriete nom="Taille">1024 mo</Propriete>
+			<Propriete nom="CAS">9</Propriete>
+			<Descriptif>Mémoire DDR3 Value Ram 1 Go PC3-10600 CAS 9 Kingston 10600 1333</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR3</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Kit Dual Channel DDR3 Ballistix Sport, 2 x 2 Go, PC3-12800, CAS 10, Crucial</Propriete>
+			<Propriete nom="Prix">39.85</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">6c7687b620f189f374724482cae7283f-200x200.jpg</Propriete>
+			<Propriete nom="Marque">Crucial</Propriete>
+			<Propriete nom="Type">DDR3 1600</Propriete>
+			<Propriete nom="Taille">4096 mo</Propriete>
+			<Propriete nom="CAS">10</Propriete>
+			<Descriptif>Kit Dual Channel DDR3 Ballistix Sport 2 x 2 Go PC3-12800 CAS 10 Crucial 1600 12800</Descriptif>
+			<Rubriques>
+				<Rubrique>Mémoire</Rubrique>
+				<Rubrique>DDR3</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Disque dur Samsung SpinPoint F3, 1 To</Propriete>
+			<Propriete nom="Prix">47.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1003989101.jpg</Propriete>
+			<Propriete nom="Marque">Samsung</Propriete>
+			<Propriete nom="Vitesse">7200 tpm</Propriete>
+			<Propriete nom="Capacité">1 to</Propriete>
+			<Descriptif>Disque dur Samsung SpinPoint F3 1 To</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SATA 3.5</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Disque dur Seagate Barracuda 7200.12 500 Go</Propriete>
+			<Propriete nom="Prix">33.50</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1004888201.jpg</Propriete>
+			<Propriete nom="Marque">Seagate</Propriete>
+			<Propriete nom="Vitesse">7200 tpm</Propriete>
+			<Propriete nom="Capacité">500 go</Propriete>
+			<Descriptif>Disque dur Seagate Barracuda 7200.12 500 Go</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SATA 3.5</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Disque dur Western Digital VelociRaptor, 300 Go</Propriete>
+			<Propriete nom="Prix">129.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">inr41601.jpg</Propriete>
+			<Propriete nom="Marque">Western Digital</Propriete>
+			<Propriete nom="Vitesse">10000 tpm</Propriete>
+			<Propriete nom="Capacité">300 go</Propriete>
+			<Descriptif>Disque dur Western Digital VelociRaptor 300 Go</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SATA 3.5</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">SSD OCZ Agility 3, 120 Go, SATA III</Propriete>
+			<Propriete nom="Prix">199.88</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">837f49e6f658070d73f011736a413044-200x200.jpg</Propriete>
+			<Propriete nom="Marque">OCZ</Propriete>
+			<Propriete nom="Capacité">120 go</Propriete>
+			<Descriptif>SSD OCZ Agility 3 120 Go SATA III</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SSD</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">SSD Crucial M4, 64 Go, SATA III</Propriete>
+			<Propriete nom="Prix">99.80</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1005005101.jpg</Propriete>
+			<Propriete nom="Marque">Crucial</Propriete>
+			<Propriete nom="Capacité">64 go</Propriete>
+			<Descriptif>SSD Crucial M4 64 Go SATA III</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SSD</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">SSD OCZ Vertex 3, 480 Go, SATA III</Propriete>
+			<Propriete nom="Prix">1578.90</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">in1004908101.jpg</Propriete>
+			<Propriete nom="Marque">OCZ</Propriete>
+			<Propriete nom="Capacité">480 go</Propriete>
+			<Descriptif>SSD OCZ Vertex 3 480 Go SATA III</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SSD</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Disque dur Seagate Momentus 5400.6, 500 Go</Propriete>
+			<Propriete nom="Prix">46.45</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">inu19801.jpg</Propriete>
+			<Propriete nom="Marque">Seagate</Propriete>
+			<Propriete nom="Capacité">500 go</Propriete>
+			<Propriete nom="Vitesse">5400 tpm</Propriete>
+			<Descriptif>Disque dur Seagate Momentus 5400.6 500 Go</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SATA 2.5</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Disque dur Western Digital Scorpio Blue, 500 Go</Propriete>
+			<Propriete nom="Prix">47.79</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">int05001.jpg</Propriete>
+			<Propriete nom="Marque">Western Digital</Propriete>
+			<Propriete nom="Capacité">500 go</Propriete>
+			<Propriete nom="Vitesse">5400 tpm</Propriete>
+			<Descriptif>Disque dur Western Digital Scorpio Blue 500 Go</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SATA 2.5</Rubrique>
+			</Rubriques>
+		</Produit>
+		
+		<Produit>
+			<Propriete nom="Libelle">Disque dur Samsung SpinPoint MT2, 1 To</Propriete>
+			<Propriete nom="Prix">69.80</Propriete>
+			<Propriete nom="UniteDeVente">l'unité</Propriete>
+			<Propriete nom="Photo">0e18f7c494e44f39b8103f198a197f03-200x200.jpg</Propriete>
+			<Propriete nom="Marque">Samsung</Propriete>
+			<Propriete nom="Capacité">1 to</Propriete>
+			<Propriete nom="Vitesse">5400 tpm</Propriete>
+			<Descriptif>Disque dur Samsung SpinPoint MT2 1 To</Descriptif>
+			<Rubriques>
+				<Rubrique>Disque Dur</Rubrique>
+				<Rubrique>SATA 2.5</Rubrique>
+			</Rubriques>
+		</Produit>
+	</ListeProduits>
+	
+	<ListeRubriques>
+		<Rubrique>
+			<Nom>AMD</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Processeur</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>AM2+</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>AMD</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>AM3</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>AMD</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>Intel</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Processeur</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>LGA775</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Intel</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>1155</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Intel</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>1156</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Intel</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>Mémoire</Nom>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>DDR</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Mémoire</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>DDR2</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Mémoire</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>DDR3</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Mémoire</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>Disque Dur</Nom>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>SATA 3.5</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Disque Dur</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>SATA 2.5</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Disque Dur</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+		
+		<Rubrique>
+			<Nom>SSD</Nom>
+			<RubriquesSuperieures>
+				<Rubrique>Disque Dur</Rubrique>
+			</RubriquesSuperieures>
+		</Rubrique>
+	</ListeRubriques>
+	
+</Parametres>

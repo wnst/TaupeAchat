@@ -1,0 +1,3 @@
+Pour initialiser la base de données, aller sur la page initialiser.php.
+Ensuite, il faut se connecter au site en admin (login: admin, mdp; admin). 
+Enfin, cliquer sur "Editer la base de données", choisir le fichier Parametres.xml et l'envoyer.
